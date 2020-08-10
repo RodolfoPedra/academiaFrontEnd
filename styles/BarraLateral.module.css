@@ -1,0 +1,54 @@
+.container {
+  width: 250px;
+  max-width: 250px;
+  color: #fff;
+  background: #2a3042;
+}
+
+.logo {
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.barraItens {
+  height: 100vh;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.barraItens ul {
+  width: 100%;
+}
+
+.categoria {
+  display: flex;
+  align-items: center;
+  padding: 12px 20px;
+  font-size: 0.8em;
+  color: #6b7286;
+  text-transform: uppercase;
+  font-weight: bold;
+  cursor: default;
+}
+
+.menus {
+  padding: 12px 20px;
+}
+
+/* .categoria a {
+
+} */
+
+/* Estilo dos menus, submenus e ícones 
+cor do menu e submenu selecionado será branca #fff
+
+#6B7286 cor para a categoria do menu
+
+#6A7186 cor do ícone 
+
+#A6B0CF cor do menu não selecinado
+
+#60687F cor do submenu não selecionado
+*/
